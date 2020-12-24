@@ -1,0 +1,13 @@
+C:\Users\minad\source\repos\Classignment6\Classignment6\bin\Debug\netcoreapp3.1\Classignment6.exe
+C:\Users\minad\source\repos\Classignment6\Classignment6\bin\Debug\netcoreapp3.1\Classignment6.deps.json
+C:\Users\minad\source\repos\Classignment6\Classignment6\bin\Debug\netcoreapp3.1\Classignment6.runtimeconfig.json
+C:\Users\minad\source\repos\Classignment6\Classignment6\bin\Debug\netcoreapp3.1\Classignment6.runtimeconfig.dev.json
+C:\Users\minad\source\repos\Classignment6\Classignment6\bin\Debug\netcoreapp3.1\Classignment6.dll
+C:\Users\minad\source\repos\Classignment6\Classignment6\bin\Debug\netcoreapp3.1\Classignment6.pdb
+C:\Users\minad\source\repos\Classignment6\Classignment6\obj\Debug\netcoreapp3.1\Classignment6.csprojAssemblyReference.cache
+C:\Users\minad\source\repos\Classignment6\Classignment6\obj\Debug\netcoreapp3.1\Classignment6.AssemblyInfoInputs.cache
+C:\Users\minad\source\repos\Classignment6\Classignment6\obj\Debug\netcoreapp3.1\Classignment6.AssemblyInfo.cs
+C:\Users\minad\source\repos\Classignment6\Classignment6\obj\Debug\netcoreapp3.1\Classignment6.csproj.CoreCompileInputs.cache
+C:\Users\minad\source\repos\Classignment6\Classignment6\obj\Debug\netcoreapp3.1\Classignment6.dll
+C:\Users\minad\source\repos\Classignment6\Classignment6\obj\Debug\netcoreapp3.1\Classignment6.pdb
+C:\Users\minad\source\repos\Classignment6\Classignment6\obj\Debug\netcoreapp3.1\Classignment6.genruntimeconfig.cache
